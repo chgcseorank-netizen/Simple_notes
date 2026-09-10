@@ -1,0 +1,19 @@
+Git aur GitHub ka role yahan samjho:
+
+Git → changes/version manage karta hai
+GitHub → code online store karta hai
+Vercel → website ko deploy/live karta hai
+
+Important terms
+Git = project ke versions/changes manage karne ka tool
+GitHub = Git repositories ko online host karne ka platform
+Repository (Repo) = aapke project ka online/managed folder
+Commit = kisi change ko Git mein save karna
+Push = local Git se changes GitHub par bhejna
+Pull = GitHub se latest changes lena
+Clone = GitHub project ki copy laptop par lana
+Aapke website workflow mein
+
+Aapne jo GitHub → Vercel workflow use kiya tha, usmein roughly:
+
+HTML/CSS/JS → Git → GitHub Repository → Vercel → Live Website
